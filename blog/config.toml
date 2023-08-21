@@ -1,0 +1,4 @@
+baseURL = 'http://le-tom.fr/'
+languageCode = 'fr-fr'
+title = 'Kronkos - Blog site'
+theme = 'hugo-theme-stack'
